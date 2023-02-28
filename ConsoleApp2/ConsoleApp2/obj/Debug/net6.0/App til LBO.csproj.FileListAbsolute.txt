@@ -1,0 +1,19 @@
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\App til LBO.csproj.AssemblyReference.cache
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\App til LBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\App til LBO.AssemblyInfoInputs.cache
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\App til LBO.AssemblyInfo.cs
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\App til LBO.csproj.CoreCompileInputs.cache
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\App til LBO.exe
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\App til LBO.deps.json
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\App til LBO.runtimeconfig.json
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\App til LBO.dll
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\App til LBO.pdb
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Dapper.dll
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\System.Data.OracleClient.dll
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\App til LBO.csproj.CopyComplete
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\App til LBO.dll
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\App til LBO.dll
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\App til LBO.pdb
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\App til LBO.genruntimeconfig.cache
+C:\Users\fst\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\App til LBO.dll
